@@ -131,11 +131,11 @@ Demo Published/Deplyed Dashboard Link -> [https://app.powerbi.com/groups/me/repo
 • Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
 
 • Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
-
-
-
-
+.
+.
+.
 • Found KPI's, metrices, key-influencers, trends & patterns
+
 	• For 2 years(2019 & 2020), Overall Emplyee/Employee Count = 1470, Attrition(who left) = 238, Attrition Rate = 16.2%, Average Age(who left) = 37, Average Salary(who left) = 65K, Average Years At Company(who left) = 7
  
 	• Attrition(who left) vs Education, Maximum people was from life Science(37%) & Minimum people was from Human Resources(3%), This means, Sales jobrole department people are happy & laboratory technician jobrole Departmemt people are unhappy & left organiation
@@ -146,20 +146,19 @@ Demo Published/Deplyed Dashboard Link -> [https://app.powerbi.com/groups/me/repo
  
 	• Attrition(who left) vs AVG AGE GROUP , Maximum people who has 26-35 age group & Minimum people who has 55+ age group . This means people having age 55+ are happy with job & 26-35 are unhappy due to salary & dept & left job
  
-	• Attrition(who left) vs Years in comapony,  Maximum people stayed 2 years & Minimum people stayed 6 months. This means people are are happy who stayed more than 2+ year bcause of good salary/pay & passionate about work in thier department.
- 
-
-
+	• Attrition(who left) vs Years in comapony,  Maximum people stayed 2 years & Minimum people stayed 6 months. This means people are are happy who stayed more than 2+ year bcause of good salary/pay & passionate about work in thier department
+.
+.
+.
 
 • Contributed to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 • Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, and interactive dashboard creation, driving business success.
 
-• Proived valuable & meaningful insights & Analysis for better decision making & insights in clear & concise manner to retain employees & reduce employee attriton rate & Gain employee trust & make workforce more productive & satisfaction & business success
-
-
-
-
+• Proived valuable & meaningful insights & Analysis for better decision making & insights in clear & concise manner to retain employees & reduce employee attriton rate & Gain employee trust & make workforce more productive & satisfaction & business success.
+.
+.
+.
 • Identified key factors to reduce attrition
 
 • Improved the hiring process
