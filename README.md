@@ -37,7 +37,7 @@ Demo Published/Deplyed Dashboard Link -> [https://app.powerbi.com/groups/me/repo
 
 # PROJECT OVERVIEW
 
-• To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+• To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights about employees & reduce employee attriton rate & Gain employee trust & make workforce more productive & satisfaction & business success 
 
 
 
