@@ -134,6 +134,7 @@ Demo Published/Deplyed Dashboard Link -> [https://app.powerbi.com/groups/me/repo
 .
 .
 .
+
 • Found KPI's, metrices, key-influencers, trends & patterns
 
 	• For 2 years(2019 & 2020), Overall Emplyee/Employee Count = 1470, Attrition(who left) = 238, Attrition Rate = 16.2%, Average Age(who left) = 37, Average Salary(who left) = 65K, Average Years At Company(who left) = 7
@@ -159,6 +160,7 @@ Demo Published/Deplyed Dashboard Link -> [https://app.powerbi.com/groups/me/repo
 .
 .
 .
+
 • Identified key factors to reduce attrition
 
 • Improved the hiring process
