@@ -9,7 +9,6 @@ Demo Published/Deplyed Dashboard Link -> [https://app.powerbi.com/groups/me/repo
 ![HR Analytics   Emp Retention Dashboard](https://github.com/akashkam559/PowerBI-Project-HR-Analytics-Employee-Attrition-Retention-Churn/assets/41515202/a072831d-7a5b-42e8-a5c8-1f60fd280548)
 
 # Project Index
-----------------------
 • Project- key points
 • Project Overview
 • Project Objective
@@ -21,9 +20,9 @@ Demo Published/Deplyed Dashboard Link -> [https://app.powerbi.com/groups/me/repo
 • Project Description & Insights, Analysis from Dashboard & storytelling, presentation to help business 
 
 • Project Learning 
-===========================================================
-PROJECT KEY-POINTS
-------------------------------
+
+
+# PROJECT KEY-POINTS
 • Data collection
 • Data cleaning & wrangling
 • Data modeling
@@ -32,18 +31,18 @@ PROJECT KEY-POINTS
 • Sharing Insights
 
 
-PROJECT OVERVIEW
------------------------
+# PROJECT OVERVIEW
+
 • To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 
-PROJECT OBJECTIVE
-----------------------
+# PROJECT OBJECTIVE
+
 • Help an organization to improve employee performance and improve employee retention (reduce attrition) by creating a HR Analytics dashboard
 
 
-PROJECT ECOCSYSTEM
-------------------------------
+# PROJECT ECOCSYSTEM
+
 - powerbi desktop
   • home - clipboard, extract/collect/get data,   transform <-> act as power query editor,   visual/text
   • insert - visual, power platform apps, 
@@ -58,8 +57,8 @@ PROJECT ECOCSYSTEM
   • power query editor -> transform data
 
 
-ROJECT STEPS & ETL ON DATASET
---------------------------------
+#  PROJECT STEPS & ETL ON DATASET
+
 1. Undertand req & take out important information
 2. Consider & Find (kpi/metrices) before making dashboard 
 3. Get data sources - csv format
@@ -75,8 +74,8 @@ ROJECT STEPS & ETL ON DATASET
 	* (L) - create & format visual dashboard - Charts Maps, Filter/Flicers,Create New Columns and Tables)
 
 
-PROJECT DESCRIPTION & INSIGHTS FROM DASHBOARD TO HELP BUSINESS
-------------------------------------------------------
+# PROJECT DESCRIPTION & INSIGHTS FROM DASHBOARD TO HELP BUSINESS
+
 • Dashboard Creation: Created, Built, Monitored visually appealing interactive dynamic dashboards & reports added filters to allow user to explore dara at various levels of granularity
 • Dashboard KPI's : understand, identify, track KPIs, metrices, key-influencers, Identified key factors to reduce attrition
 • Dashboard Manipulation: created connections, joins new tables, calculations to manipulate data, 
@@ -85,8 +84,8 @@ PROJECT DESCRIPTION & INSIGHTS FROM DASHBOARD TO HELP BUSINESS
 • Presentation & storytelling 
 
 
-PROJECT LEARNING
------------------------
+# PROJECT LEARNING
+
 • HOw to approch probelem & perfomer ETL steps on datasets 
 
 • Created interactive dashboard for to analyze emplyee attrition by comparing all parameters
