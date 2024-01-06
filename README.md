@@ -27,9 +27,9 @@ Demo Published/Deplyed Dashboard Link -> [https://app.powerbi.com/groups/me/repo
 		Average Salary(who left) = 65K, 
 		Average Years At Company(who left) = 7
   
-  	• Attrition(who left) vs Education, Maximum people was from life Science(37%) & Minimum people was from Human Resources(3%), This means, Sales job role department people are happy & laboratory technician job role Department people are unhappy & left organization
+  		• Attrition(who left) vs Education, Maximum people was from life Science(37%) & Minimum people was from Human Resources(3%), This means, Sales job role department people are happy & laboratory technician job role Department people are unhappy & left organization
    
-   	• Attrition(who left) vs Job Role, Maximum people was from Laboratory Technician(62) & Minimum people was from Sales(33), This means, HR department people are happy & life science are unhappy & left organization
+   		• Attrition(who left) vs Job Role, Maximum people was from Laboratory Technician(62) & Minimum people was from Sales(33), This means, HR department people are happy & life science are unhappy & left organization
     
     	• Attrition(who left) vs Salary, Maximum people who has 5k salary & Minimum people who fall under 30K salary. This means, people who are 30K above salary are happy & below 5k are unhappy & left organization
      
